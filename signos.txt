@@ -1,0 +1,29 @@
+
+
+
+{}
+
+
+[]
+
+
+{
+   
+{ 
+    "usuario" : "franco",
+    "email" : "franco@correo.com",
+    "contraseña" : "dkfjdsfkl"
+}
+
+
+{ 
+    "usuario" : "franco",
+    "email" : "franco@correo.com",
+    "contraseña" : "francocid"
+}
+
+
+{
+    "titulo": "franco",
+    "contenido": "dskljfdsfkjds"
+}
